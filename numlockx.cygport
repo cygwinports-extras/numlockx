@@ -1,0 +1,10 @@
+NAME="numlockx"
+VERSION=1.2
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="Allows X to start with NumLock on"
+DESCRIPTION="This little thingy allows you to start X with NumLock turned on
+(which is a feature that a lot of people seem to miss and nobody really knew
+how to achieve this)."
+HOMEPAGE="http://home.kde.org/~seli/numlockx/"
+SRC_URI="http://home.kde.org/~seli/numlockx/${NAME}-${VERSION}.tar.gz"

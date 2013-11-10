@@ -1,6 +1,0 @@
-category: X11
-requires: libX11_6 libXtst6
-sdesc: "Allows X to start with NumLock on"
-ldesc: "This little thingy allows you to start X with NumLock turned on 
-(which is a feature that a lot of people seem to miss and nobody really 
-knew how to achieve this)."
